@@ -35,40 +35,40 @@ Roadmap for learning frontend.
 
 ## 14. Object-oriented programming
 
-- [ ] Design Patterns
+## 15. Design Patterns
 
-## 15. Lodash
+## 16. Lodash
 
-## 16. Browser
+## 17. Browser
 
-## 17. DOM
+## 18. DOM
 
-## 18. jQuery
+## 19. jQuery
 
-## 19. React
+## 20. React
 
-## 20. Redux
+## 21. Redux
 
-## 21. Node.js
+## 22. Node.js
 
-## 22. Package Managers
+## 23. Package Managers
 
-## 23. Web Server
+## 24. Web Server
 
-## 24. Express
+## 25. Express
 
-## 25. Scaffolding
+## 26. Scaffolding
 
-## 26. Task Runners
+## 27. Task Runners
 
-## 27. Bundlers
+## 28. Bundlers
 
-## 28. Testing
+## 29. Testing
 
-## 29. Databases
+## 30. Databases
 
-## 30. Clouds
+## 31. Clouds
 
-## 31. Continuous Integration
+## 32. Continuous Integration
 
-## 32. Virtualization
+## 33. Virtualization
