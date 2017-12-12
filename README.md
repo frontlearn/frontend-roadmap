@@ -10,6 +10,8 @@ Roadmap for learning frontend.
 
 ## 4. Git
 
+- [ ] GitHub
+
 ## 5. HTML
 
 ## 6. SVG
@@ -26,38 +28,47 @@ Roadmap for learning frontend.
 
 ## 12. Algorithms
 
-## 13. Lodash
+- [ ] Euclidean algorithm
+- [ ] Quicksort
 
-## 14. Browser
+## 13. Functional programming
 
-## 15. DOM
+## 14. Object-oriented programming
 
-## 16. jQuery
+- [ ] Design Patterns
 
-## 17. React
+## 15. Lodash
 
-## 18. Redux
+## 16. Browser
 
-## 19. Node.js
+## 17. DOM
 
-## 20. Package Managers
+## 18. jQuery
 
-## 21. Web Server
+## 19. React
 
-## 22. Express
+## 20. Redux
 
-## 23. Scaffolding
+## 21. Node.js
 
-## 24. Task Runners
+## 22. Package Managers
 
-## 25. Bundlers
+## 23. Web Server
 
-## 26. Testing
+## 24. Express
 
-## 27. Databases
+## 25. Scaffolding
 
-## 28. Clouds
+## 26. Task Runners
 
-## 29. Continuous Integration
+## 27. Bundlers
 
-## 30. Virtualization
+## 28. Testing
+
+## 29. Databases
+
+## 30. Clouds
+
+## 31. Continuous Integration
+
+## 32. Virtualization
