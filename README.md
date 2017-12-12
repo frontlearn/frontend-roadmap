@@ -18,44 +18,46 @@ Roadmap for learning frontend.
 
 ## 8. Preprocessors
 
-## 9. JavaScript
+## 9. Bootstrap
 
-## 10. Data Structures
+## 10. JavaScript
 
-## 11. Algorithms
+## 11. Data Structures
 
-## 12. Lodash
+## 12. Algorithms
 
-## 13. Browser
+## 13. Lodash
 
-## 14. DOM
+## 14. Browser
 
-## 15. jQuery
+## 15. DOM
 
-## 16. React
+## 16. jQuery
 
-## 17. Redux
+## 17. React
 
-## 18. Node.js
+## 18. Redux
 
-## 19. Package Managers
+## 19. Node.js
 
-## 20. Web Server
+## 20. Package Managers
 
-## 21. Express
+## 21. Web Server
 
-## 22. Scaffolding
+## 22. Express
 
-## 23. Task Runners
+## 23. Scaffolding
 
-## 24. Bundlers
+## 24. Task Runners
 
-## 25. Testing
+## 25. Bundlers
 
-## 26. Databases
+## 26. Testing
 
-## 27. Clouds
+## 27. Databases
 
-## 28. Continuous Integration
+## 28. Clouds
 
-## 29. Virtualization
+## 29. Continuous Integration
+
+## 30. Virtualization
