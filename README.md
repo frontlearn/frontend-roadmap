@@ -2,52 +2,60 @@
 
 Roadmap for learning frontend.
 
-## 1. Bash
+## 1. Introducion
 
-## 2. HTTP
+## 2. Bash
 
-## 3. Git
+## 3. HTTP
 
-## 4. HTML
+## 4. Git
 
-## 5. SVG
+## 5. HTML
 
-## 6. CSS
+## 6. SVG
 
-## 7. Preprocessors
+## 7. CSS
 
-## 8. JavaScript
+## 8. Preprocessors
 
-## 9. Browser
+## 9. JavaScript
 
-## 10. DOM
+## 10. Data Structures
 
-## 11. jQuery
+## 11. Algorithms
 
-## 12. React
+## 12. Lodash
 
-## 13. Redux
+## 13. Browser
 
-## 14. Node.js
+## 14. DOM
 
-## 15. Package Managers
+## 15. jQuery
 
-## 16. Web Server
+## 16. React
 
-## 17. Express
+## 17. Redux
 
-## 18. Scaffolding
+## 18. Node.js
 
-## 19. Task Runners
+## 19. Package Managers
 
-## 20. Bundlers
+## 20. Web Server
 
-## 21. Testing
+## 21. Express
 
-## 22. Databases
+## 22. Scaffolding
 
-## 23. Cloud
+## 23. Task Runners
 
-## 24. Continuous Integration
+## 24. Bundlers
 
-## 25. Containers
+## 25. Testing
+
+## 26. Databases
+
+## 27. Clouds
+
+## 28. Continuous Integration
+
+## 29. Virtualization
