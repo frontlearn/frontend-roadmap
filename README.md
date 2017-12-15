@@ -4,7 +4,33 @@ Roadmap for learning frontend.
 
 ## 1. Introducion
 
-## 2. Bash
+- [ ] How to learn?
+
+## 2. Bash, CLI
+
+- [ ] Basic Shell Features
+  - [ ] Shell Syntax
+  - [ ] Shell Commands
+  - [ ] Shell Functions
+  - [ ] Shell Parameters
+  - [ ] Shell Expansions
+  - [ ] Redirections
+  - [ ] Executing Commands
+- [ ] Shell Builtin Commands
+  - [ ] File system
+  - [ ] Input Output
+  - [ ] System Info
+  - [ ] Network
+  - [ ] Process Monitoring
+- [ ] Shell Variables
+- [ ] Bash Features
+  - [ ] Aliases
+- [ ] Job Control
+- [ ] Bash History
+
+Links:
+
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 ## 3. HTTP
 
