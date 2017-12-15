@@ -11,11 +11,19 @@ Roadmap for learning frontend.
 - [ ] Basic Shell Features
   - [ ] Shell Syntax
   - [ ] Shell Commands
+    - [ ] Simple Commands
+    - [ ] Pipelines
+    - [ ] Lists of Commands
+    - [ ] Compound Commands
+    - [ ] Coprocesses
   - [ ] Shell Functions
   - [ ] Shell Parameters
   - [ ] Shell Expansions
   - [ ] Redirections
   - [ ] Executing Commands
+    - [ ] Environment
+    - [ ] Exit Status
+    - [ ] Signals
 - [ ] Shell Builtin Commands
   - [ ] File system
   - [ ] Input Output
@@ -24,13 +32,22 @@ Roadmap for learning frontend.
   - [ ] Process Monitoring
 - [ ] Shell Variables
 - [ ] Bash Features
+  - [ ] Invoking Bash
+  - [ ] Interactive Shells
+  - [ ] Bash Conditional Expressions
+  - [ ] Shell Arithmetic
   - [ ] Aliases
+  - [ ] Arrays
+  - [ ] The Directory Stack
+  - [ ] Controlling the Prompt
 - [ ] Job Control
+- [ ] Command Line Editing
 - [ ] Bash History
 
 Links:
 
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- [bash-guide](https://github.com/Idnan/bash-guide)
 
 ## 3. HTTP
 
