@@ -40,6 +40,8 @@ Roadmap for learning frontend.
 
 ## 1. Introducion
 
+- [ ] How to learn?
+
 ## 2. Bash, Command Line
 
 ## 3. HTTP
