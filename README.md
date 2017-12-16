@@ -25,7 +25,7 @@ Roadmap for learning frontend.
 19. [jQuery](#19-jquery)
 20. [React](#20-react)
 21. [Redux](#21-redux)
-22. [Node.js](#22-node-js)
+22. [Node.js](#22-nodejs)
 23. [Package Managers](#23-package-managers)
 24. [Web Server](#24-web-server)
 25. [Express](#25-express)
@@ -62,7 +62,7 @@ Roadmap for learning frontend.
     - [ ] Signals
 - [ ] Shell Builtin Commands
   - [ ] File system
-  - [ ] Input Output
+  - [ ] Input and Output
   - [ ] System Info
   - [ ] Network
   - [ ] Process Monitoring
@@ -83,23 +83,23 @@ Roadmap for learning frontend.
 
 Links:
 
-- [Bash Intro](https://github.com/gitGNU/gnu_bash/blob/master/doc/INTRO)
-- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) (official)
 - [The Bash Guide](http://guide.bash.academy)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [Awesome Shell](https://github.com/alebcay/awesome-shell)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [Bash-it](https://github.com/Bash-it/bash-it)
-- [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets)
-- [bash-handbook](https://github.com/denysdovhan/bash-handbook)
-- [bash-completion](https://github.com/scop/bash-completion)
-- [learnyoubash](https://github.com/denysdovhan/learnyoubash)
+- [Bash Guide](https://github.com/Idnan/bash-guide)
+- [Bash Handbook](https://github.com/denysdovhan/bash-handbook)
+- [Data Science at the Command Line](http://datascienceatthecommandline.com)
+- [Filenames and Pathnames in Shell: How to do it Correctly](https://www.dwheeler.com/essays/filenames-in-shell.html)
+- [Unofficial Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode)
+- [An A-Z Index of the Bash command line for Linux](https://ss64.com/bash)
+- [bash-completion](https://github.com/scop/bash-completion) (tool)
+- [ShellCheck](https://github.com/koalaman/shellcheck) (tool)
 
 ## 3. HTTP
 
 ## 4. Git
-
-- [ ] GitHub
 
 ## 5. HTML
 
@@ -116,9 +116,6 @@ Links:
 ## 11. Data Structures
 
 ## 12. Algorithms
-
-- [ ] Euclidean algorithm
-- [ ] Quicksort
 
 ## 13. Functional programming
 
