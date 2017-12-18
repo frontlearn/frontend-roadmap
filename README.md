@@ -164,6 +164,168 @@ Links:
 
 ## 10. JavaScript
 
+- [ ] Overview
+  - [ ] Web Scripting
+  - [ ] ECMAScript Overview
+  - [ ] Terms and Definitions
+  - [ ] Organization of This Specification
+- [ ] Data Types and Values
+  - [ ] Language Types
+  - [ ] Specification Types
+- [ ] Abstract Operations
+  - [ ] Type Conversion
+  - [ ] Testing and Comparison Operations
+  - [ ] Operations on Objects
+  - [ ] Operations on Iterator Objects
+- [ ] Executable Code and Execution Contexts
+  - [ ] Lexical Environments
+  - [ ] Realms
+  - [ ] Execution Contexts
+  - [ ] Jobs and Job Queues
+  - [ ] InitializeHostDefinedRealm
+  - [ ] RunJobs
+  - [ ] Agents
+  - [ ] Agent Clusters
+  - [ ] Forward Progress
+- [ ] Ordinary and Exotic Objects Behaviours
+  - [ ] Ordinary Object Internal Methods and Internal Slots
+  - [ ] Function Objects
+  - [ ] Built-in Function Objects
+  - [ ] Built-in Exotic Object Internal Methods and Slots
+  - [ ] Proxy Object Internal Methods and Internal Slots
+- [ ] Source Code
+  - [ ] Source Text
+  - [ ] Types of Source Code
+    - [ ] Strict Mode Code
+    - [ ] Non-ECMAScript Functions
+- [ ] Lexical Grammar
+  - [ ] Unicode Format-Control Characters
+  - [ ] White Space
+  - [ ] Line Terminators
+  - [ ] Comments
+  - [ ] Tokens
+  - [ ] Names and Keywords
+  - [ ] Punctuators
+  - [ ] Literals
+  - [ ] Automatic Semicolon Insertion
+- [ ] Expressions
+  - [ ] Identifiers
+  - [ ] Primary Expression
+  - [ ] Left-Hand-Side Expressions
+  - [ ] Update Expressions
+  - [ ] Unary Operators
+  - [ ] Exponentiation Operator
+  - [ ] Multiplicative Operators
+  - [ ] Additive Operators
+  - [ ] Bitwise Shift Operators
+  - [ ] Relational Operators
+  - [ ] Equality Operators
+  - [ ] Binary Bitwise Operators
+  - [ ] Binary Logical Operators
+  - [ ] Conditional Operator ( ? : )
+  - [ ] Assignment Operators
+  - [ ] Comma Operator ( , )
+- [ ] Statements and Declarations
+  - [ ] Statement Semantics
+  - [ ] Block
+  - [ ] Declarations and the Variable Statement
+  - [ ] Empty Statement
+  - [ ] Expression Statement
+  - [ ] The if Statement
+  - [ ] Iteration Statements
+  - [ ] The continue Statement
+  - [ ] The break Statement
+  - [ ] The return Statement
+  - [ ] The with Statement
+  - [ ] The switch Statement
+  - [ ] Labelled Statements
+  - [ ] The throw Statement
+  - [ ] The try Statement
+  - [ ] The debugger Statement
+- [ ] Functions and Classes
+  - [ ] Function Definitions
+  - [ ] Arrow Function Definitions
+  - [ ] Method Definitions
+  - [ ] Generator Function Definitions
+  - [ ] Class Definitions
+  - [ ] Async Function Definitions
+  - [ ] Async Arrow Function Definitions
+  - [ ] Tail Position Calls
+- [ ] Scripts and Modules
+  - [ ] Scripts
+  - [ ] Modules
+- [ ] Error Handling and Language Extensions
+  - [ ] HostReportErrors ( errorList )
+  - [ ] Forbidden Extensions
+- [ ] Standard Built-in Objects
+- [ ] The Global Object
+  - [ ] Value Properties of the Global Object
+  - [ ] Function Properties of the Global Object
+  - [ ] Constructor Properties of the Global Object
+  - [ ] Other Properties of the Global Object
+- [ ] Fundamental Objects
+  - [ ] Object Objects
+  - [ ] Function Objects
+  - [ ] Boolean Objects
+  - [ ] Symbol Objects
+  - [ ] Error Objects
+- [ ] Numbers and Dates
+  - [ ] Number Objects
+  - [ ] The Math Object
+  - [ ] Date Objects
+- [ ] Text Processing
+  - [ ] String Objects
+  - [ ] RegExp (Regular Expression) Objects
+- [ ] Indexed Collections
+  - [ ] Array Objects
+  - [ ] TypedArray Objects
+- [ ] Keyed Collection
+  - [ ] Map Objects
+  - [ ] Set Objects
+  - [ ] WeakMap Objects
+  - [ ] WeakSet Objects
+- [ ] Structured Data
+  - [ ] ArrayBuffer Objects
+  - [ ] SharedArrayBuffer Objects
+  - [ ] DataView Objects
+  - [ ] The Atomics Object
+  - [ ] The JSON Object
+- [ ] Control Abstraction Objects
+  - [ ] Iteration
+  - [ ] GeneratorFunction Objects
+  - [ ] Generator Objects
+  - [ ] Promise Objects
+  - [ ] AsyncFunction Objects
+- [ ] Reflection
+  - [ ] The Reflect Object
+  - [ ] Proxy Objects
+  - [ ] Module Namespace Objects
+- [ ] Memory Model
+  - [ ] Memory Model Fundamentals
+  - [ ] Agent Events Records
+  - [ ] Chosen Value Records
+  - [ ] Candidate Executions
+  - [ ] Abstract Operations for the Memory Model
+  - [ ] Relations of Candidate Executions
+  - [ ] Properties of Valid Executions
+  - [ ] Races
+  - [ ] Data Races
+  - [ ] Data Race Freedom
+  - [ ] Shared Memory Guidelines
+
+Links:
+
+- [ECMA-262 5.1 Edition, June 2011](http://www.ecma-international.org/ecma-262/5.1/index.html) (official)
+- [ECMA-262 6th Edition, June 2015. ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html) (official)
+- [ECMA-262 7th Edition, June 2016. ECMAScript® 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) (official)
+- [ECMA-262 8th Edition, June 2017. ECMAScript® 2017 Language Specification](http://www.ecma-international.org/ecma-262/8.0/index.html) (official)
+- [Draft ECMA-262, December 18, 2017. ECMAScript® 2018 Language Specification](https://tc39.github.io/ecma262) (official)
+- [JavaScript | Code School](https://www.javascript.com)
+- [JavaScript | MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+- [JS Bin](https://jsbin.com) (service)
+- [JSFiddle](https://jsfiddle.net) (service)
+- [Babel](http://babeljs.io) (tool)
+
 ## 11. Data Structures
 
 ## 12. Algorithms
