@@ -318,7 +318,7 @@ Links:
 - [ECMA-262 8th Edition, June 2017. ECMAScript® 2017 Language Specification](http://www.ecma-international.org/ecma-262/8.0/index.html) (official)
 - [ECMA-262 7th Edition, June 2016. ECMAScript® 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) (official)
 - [ECMA-262 6th Edition, June 2015. ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html) (official)
-- [ECMA-262 5.1 Edition, June 2011](http://www.ecma-international.org/ecma-262/5.1/index.html) (official)
+- [ECMA-262 5.1 Edition, June 2011. ECMAScript® Language Specification](http://www.ecma-international.org/ecma-262/5.1/index.html) (official)
 - [JavaScript | Code School](https://www.javascript.com)
 - [JavaScript | MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [JS Bin](https://jsbin.com) (service)
