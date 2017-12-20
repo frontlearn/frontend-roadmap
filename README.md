@@ -152,6 +152,17 @@ Links:
 
 ## 4. Git
 
+Links:
+
+- [Git Reference Manual](https://git-scm.com) (official)
+- [Pro Git](https://git-scm.com/book/en/v2) (book)
+- [Git User’s Manual](http://schacon.github.io/git/user-manual.html)
+- [GitHowTo](https://githowto.com) (course)
+- [Learn Git Branching](https://learngitbranching.js.org) (course)
+- [GitHub](https://github.com) (service)
+- [gitk](http://gitk.sourceforge.net) (tool)
+- [gitx](https://github.com/pieter/gitx) (tool)
+
 ## 5. HTML
 
 ## 6. SVG
