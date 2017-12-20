@@ -1,4 +1,4 @@
-# Frontlearn Roadmap
+# Frontend Roadmap
 
 Roadmap for learning frontend.
 
