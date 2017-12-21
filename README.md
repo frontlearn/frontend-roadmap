@@ -152,6 +152,102 @@ Links:
 
 ## 4. Git
 
+- [ ] Setup and Config
+  - [ ] git
+  - [ ] config
+  - [ ] help
+- [ ] Getting and Creating Projects
+  - [ ] init
+  - [ ] clone
+- [ ] Basic Snapshotting
+  - [ ] add
+  - [ ] status
+  - [ ] diff
+  - [ ] commit
+  - [ ] reset
+  - [ ] rm
+  - [ ] mv
+- [ ] Branching and Merging
+  - [ ] branch
+  - [ ] checkout
+  - [ ] merge
+  - [ ] mergetool
+  - [ ] log
+  - [ ] stash
+  - [ ] tag
+- [ ] Sharing and Updating Projects
+  - [ ] fetch
+  - [ ] pull
+  - [ ] push
+  - [ ] remote
+  - [ ] submodule
+- [ ] Inspection and Comparison
+  - [ ] show
+  - [ ] log
+  - [ ] diff
+  - [ ] shortlog
+  - [ ] describe
+  - [ ] Patching
+  - [ ] apply
+  - [ ] cherry-pick
+  - [ ] diff
+  - [ ] rebase
+  - [ ] revert
+- [ ] Debugging
+  - [ ] bisect
+  - [ ] blame
+  - [ ] grep
+- [ ] Guides
+  - [ ] gitattributes
+  - [ ] Everyday Git
+  - [ ] Glossary
+  - [ ] gitignore
+  - [ ] gitmodules
+  - [ ] Revisions
+  - [ ] Tutorial
+  - [ ] Workflows
+- [ ] Email
+  - [ ] am
+  - [ ] apply
+  - [ ] format-patch
+  - [ ] send-email
+  - [ ] request-pull
+- [ ] External Systems
+  - [ ] svn
+  - [ ] fast-import
+- [ ] Administration
+  - [ ] clean
+  - [ ] gc
+  - [ ] fsck
+  - [ ] reflog
+  - [ ] filter-branch
+  - [ ] instaweb
+  - [ ] archive
+  - [ ] bundle
+- [ ] Server Admin
+  - [ ] daemon
+  - [ ] update-server-info
+- [ ] Plumbing Commands
+  - [ ] cat-file
+  - [ ] check-ignore
+  - [ ] checkout-index
+  - [ ] commit-tree
+  - [ ] count-objects
+  - [ ] diff-index
+  - [ ] for-each-ref
+  - [ ] hash-object
+  - [ ] ls-files
+  - [ ] merge-base
+  - [ ] read-tree
+  - [ ] rev-list
+  - [ ] rev-parse
+  - [ ] show-ref
+  - [ ] symbolic-ref
+  - [ ] update-index
+  - [ ] update-ref
+  - [ ] verify-pack
+  - [ ] write-tree
+
 Links:
 
 - [Git Reference Manual](https://git-scm.com) (official)
