@@ -4,24 +4,24 @@ Roadmap for learning frontend.
 
 ## Table of Contents
 
-1. [Introducion](#introducion)
-2. [Bash, Command Line](#bash-command-line)
-3. [HTTP](#http)
-4. [Git](#git)
+1. [Introducion](#introducion) (1)
+2. [Bash, Command Line](#bash-command-line) (36)
+3. [HTTP](#http) (38)
+4. [Git](#git) (95)
 5. HTML
 6. SVG
 7. CSS
 8. Preprocessors
 9. Bootstrap
-10. [JavaScript](#javascript)
-11. [Data Structures](#data-structures)
-12. [Algorithms](#algorithms)
+10. [JavaScript](#javascript) (148)
+11. [Data Structures](#data-structures) (48+)
+12. [Algorithms](#algorithms) (69+)
 13. Functional programming
 14. Object-oriented programming
 15. Design Patterns
 16. Lodash
 17. Browser
-18. [DOM](#dom)
+18. [DOM](#dom) (175)
 19. jQuery
 20. React
 21. Redux
