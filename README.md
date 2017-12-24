@@ -435,7 +435,7 @@ Links:
 ## Data Structures
 
 - [ ] Data types
-	- [ ] Primitive types
+  - [ ] Primitive types
     - [ ] Boolean
     - [ ] Character
     - [ ] Floating-point (single-precision real number values)
