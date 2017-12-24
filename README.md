@@ -444,12 +444,12 @@ Links:
     - [ ] String
     - [ ] Reference (pointer, handle)
     - [ ] Enumerated type
-	- [ ] Composite types or Non-primitive type
+  - [ ] Composite types or Non-primitive type
     - [ ] Array
     - [ ] Record (tuple, structure)
     - [ ] Union
     - [ ] Tagged union (variant, variant record, discriminated union, disjoint union)
-	- [ ] Abstract data types
+  - [ ] Abstract data types
     - [ ] Container
     - [ ] List
     - [ ] Associative array
@@ -463,16 +463,16 @@ Links:
     - [ ] Tree
     - [ ] Graph
 - [ ] Linear data structures
-	- [ ] Arrays
-	- [ ] Types of Lists
+  - [ ] Arrays
+  - [ ] Types of Lists
 - [ ] Trees
-	- [ ] Binary trees
-	- [ ] B-trees
-	- [ ] Heaps
-	- [ ] Trees
-	- [ ] Multiway trees
-	- [ ] Space-partitioning trees
-	- [ ] Application-specific trees
+  - [ ] Binary trees
+  - [ ] B-trees
+  - [ ] Heaps
+  - [ ] Trees
+  - [ ] Multiway trees
+  - [ ] Space-partitioning trees
+  - [ ] Application-specific trees
 - [ ] Hashes
 - [ ] Graphs
 - [ ] Other
@@ -494,73 +494,73 @@ Links:
 
 - [ ] Automated planning
 - [ ] Combinatorial algorithms
-	- [ ] General combinatorial algorithms
-	- [ ] Graph algorithms
-		- [ ] Graph drawing
-		- [ ] Network theory
-		- [ ] Routing for graphs
-		- [ ] Graph search
-		- [ ] Subgraphs
-	- [ ] Sequence algorithms
-		- [ ] Approximate sequence matching
-		- [ ] Selection algorithms
-		- [ ] Sequence search
-		- [ ] Sequence merging
-		- [ ] Sequence permutations
-		- [ ] Sequence alignment
-		- [ ] Sequence sorting
-		- [ ] Subsequences
-		- [ ] Substrings
+  - [ ] General combinatorial algorithms
+  - [ ] Graph algorithms
+    - [ ] Graph drawing
+    - [ ] Network theory
+    - [ ] Routing for graphs
+    - [ ] Graph search
+    - [ ] Subgraphs
+  - [ ] Sequence algorithms
+    - [ ] Approximate sequence matching
+    - [ ] Selection algorithms
+    - [ ] Sequence search
+    - [ ] Sequence merging
+    - [ ] Sequence permutations
+    - [ ] Sequence alignment
+    - [ ] Sequence sorting
+    - [ ] Subsequences
+    - [ ] Substrings
 - [ ] Computational mathematics
-	- [ ] Abstract algebra
-	- [ ] Computer algebra
-	- [ ] Geometry
-	- [ ] Number theoretic algorithms
-	- [ ] Numerical algorithms
-		- [ ] Differential equation solving
-		- [ ] Elementary and special functions
-		- [ ] Geometric
-		- [ ] Interpolation and extrapolation
-		- [ ] Linear algebra
-		- [ ] Monte Carlo
-		- [ ] Numerical integration
-		- [ ] Root finding
-	- [ ] Optimization algorithms
+  - [ ] Abstract algebra
+  - [ ] Computer algebra
+  - [ ] Geometry
+  - [ ] Number theoretic algorithms
+  - [ ] Numerical algorithms
+    - [ ] Differential equation solving
+    - [ ] Elementary and special functions
+    - [ ] Geometric
+    - [ ] Interpolation and extrapolation
+    - [ ] Linear algebra
+    - [ ] Monte Carlo
+    - [ ] Numerical integration
+    - [ ] Root finding
+  - [ ] Optimization algorithms
 - [ ] Computational science
-	- [ ] Astronomy
-	- [ ] Bioinformatics
-	- [ ] Geoscience
-	- [ ] Linguistics
-	- [ ] Medicine
-	- [ ] Physics
-	- [ ] Statistics
+  - [ ] Astronomy
+  - [ ] Bioinformatics
+  - [ ] Geoscience
+  - [ ] Linguistics
+  - [ ] Medicine
+  - [ ] Physics
+  - [ ] Statistics
 - [ ] Computer science
-	- [ ] Computer architecture
-	- [ ] Computer graphics
-	- [ ] Cryptography
-	- [ ] Digital logic
-	- [ ] Machine learning and statistical classification
-	- [ ] Programming language theory
-		- [ ] Parsing
-	- [ ] Quantum algorithms
-	- [ ] Theory of computation and automata
+  - [ ] Computer architecture
+  - [ ] Computer graphics
+  - [ ] Cryptography
+  - [ ] Digital logic
+  - [ ] Machine learning and statistical classification
+  - [ ] Programming language theory
+    - [ ] Parsing
+  - [ ] Quantum algorithms
+  - [ ] Theory of computation and automata
 - [ ] Information theory and signal processing
-	- [ ] Coding theory
-		- [ ] Error detection and correction
-		- [ ] Lossless compression algorithms
-		- [ ] Lossy compression algorithms
-	- [ ] Digital signal processing
-		- [ ] Image processing
+  - [ ] Coding theory
+    - [ ] Error detection and correction
+    - [ ] Lossless compression algorithms
+    - [ ] Lossy compression algorithms
+  - [ ] Digital signal processing
+    - [ ] Image processing
 - [ ] Software engineering
 - [ ] Database algorithms
 - [ ] Distributed systems algorithms
-	- [ ] Memory allocation and deallocation algorithms
+  - [ ] Memory allocation and deallocation algorithms
 - [ ] Networking
 - [ ] Operating systems algorithms
-	- [ ] Process synchronization
-	- [ ] Scheduling
-	- [ ] I/O scheduling
-		- [ ] Disk scheduling
+  - [ ] Process synchronization
+  - [ ] Scheduling
+  - [ ] I/O scheduling
+    - [ ] Disk scheduling
 
 Links:
 
