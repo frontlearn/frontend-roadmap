@@ -40,9 +40,13 @@ Roadmap for learning frontend.
 
 ## Introducion
 
+### Roadmap
+
 - [ ] How to learn?
 
 ## Bash, Command Line
+
+### Roadmap
 
 - [ ] Basic Shell Features
   - [ ] Shell Syntax
@@ -81,7 +85,7 @@ Roadmap for learning frontend.
 - [ ] Bash History
 - [ ] Documentation
 
-Links:
+### Links
 
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) (official)
 - [The Bash Guide](http://guide.bash.academy)
@@ -98,6 +102,8 @@ Links:
 - [ShellCheck](https://github.com/koalaman/shellcheck) (tool)
 
 ## HTTP
+
+### Roadmap
 
 - [ ] Message Syntax and Routing
   - [ ] Architecture
@@ -138,7 +144,7 @@ Links:
   - [ ] Header Field Definitions
   - [ ] Security Considerations
 
-Links:
+### Links
 
 - [Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://tools.ietf.org/html/rfc7230) (official)
 - [Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231) (official)
@@ -151,6 +157,8 @@ Links:
 - [curl](https://github.com/curl/curl) (tool)
 
 ## Git
+
+### Roadmap
 
 - [ ] Setup and Config
   - [ ] git
@@ -248,7 +256,7 @@ Links:
   - [ ] verify-pack
   - [ ] write-tree
 
-Links:
+### Links
 
 - [Git Reference Manual](https://git-scm.com) (official)
 - [Pro Git](https://git-scm.com/book/en/v2) (book)
@@ -270,6 +278,8 @@ Links:
 ## Bootstrap
 
 ## JavaScript
+
+### Roadmap
 
 - [ ] Overview
   - [ ] Web Scripting
@@ -420,7 +430,7 @@ Links:
   - [ ] Data Race Freedom
   - [ ] Shared Memory Guidelines
 
-Links:
+### Links
 
 - [ECMA-262 8th Edition, June 2017. ECMAScript® 2017 Language Specification](http://www.ecma-international.org/ecma-262/8.0/index.html) (official)
 - [ECMA-262 7th Edition, June 2016. ECMAScript® 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) (official)
@@ -432,7 +442,17 @@ Links:
 - [JSFiddle](https://jsfiddle.net) (service)
 - [Babel](http://babeljs.io) (tool)
 
+### Books
+
+- [ ] [Eloquent JavaScript](http://eloquentjavascript.net) ([github](https://github.com/marijnh/Eloquent-JavaScript), [goodreads](https://www.goodreads.com/book/show/8910666-eloquent-javascript?from_search=true), [amazon](https://www.amazon.com/dp/1593275846)) — Marijn Haverbeke
+- [ ] [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) ([goodreads](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja), [amazon](https://www.amazon.com/dp/193398869X)) — John Resig, Bear Bibeault
+- [ ] [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](http://effectivejs.com) ([github](https://github.com/effectivejs), [goodreads](https://www.goodreads.com/book/show/13705402-effective-javascript), [amazon](https://www.amazon.com/dp/0321812182) — David Herman
+- [ ] [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do) ([goodreads](https://www.goodreads.com/book/show/148050.JavaScript), [amazon](https://www.amazon.com/dp/0596805527)) — David Flanagan
+- [ ] [JavaScript: The Good Rarts](http://shop.oreilly.com/product/9780596517748.do) ([goodreads](https://www.goodreads.com/book/show/2998152-javascript), [amazon](https://www.amazon.com/dp/0596517742)) — Douglas Crockford
+
 ## Data Structures
+
+### Roadmap
 
 - [ ] Data types
   - [ ] Primitive types
@@ -483,7 +503,7 @@ Links:
   - [ ] Routing table
   - [ ] Symbol table
 
-Links:
+### Links
 
 - [List of data structures | Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 - [Data Structures | Interviews](https://github.com/kdn251/interviews#data-structures)
@@ -491,6 +511,8 @@ Links:
 - [algorithms.js](https://github.com/felipernb/algorithms.js)
 
 ## Algorithms
+
+### Roadmap
 
 - [ ] Automated planning
 - [ ] Combinatorial algorithms
@@ -562,7 +584,7 @@ Links:
   - [ ] I/O scheduling
     - [ ] Disk scheduling
 
-Links:
+### Links
 
 - [List of algorithms | Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 - [Algorithms | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms) (course)
@@ -578,11 +600,17 @@ Links:
 
 ## Design Patterns
 
+### Books
+
+- [ ] [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript) — Addy Osmani
+
 ## Lodash
 
 ## Browser
 
 ## DOM
+
+### Roadmap
 
 - [ ] Terminology
   - [ ] Trees
@@ -760,7 +788,7 @@ Links:
     - [ ] DocumentStyle
   - [ ] Association between a style sheet and a document
 
-Links:
+### Links
 
 - [W3C DOM4. W3C Recommendation 19 November 2015](https://www.w3.org/TR/2015/REC-dom-20151119) (official)
 - [Server-Sent Events. W3C Recommendation 03 February 2015](https://www.w3.org/TR/2015/REC-eventsource-20150203) (official)
