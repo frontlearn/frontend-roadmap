@@ -1,6 +1,6 @@
-# Frontlearn Roadmap
+# Frontend Roadmap
 
-Roadmap for learning programming.
+Roadmap for learning frontend.
 
 ## Table of Contents
 
