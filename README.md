@@ -5,12 +5,16 @@ Roadmap for learning Computer Science.
 ## Table of Contents
 
 1. Theoretical computer science
-    1. Data structures
-    2. Algorithms
-    3. Theory of computation
-    4. Information and coding theory
-    5. Programming language theory
-    6. Formal methods
+    1. Data structures and algorithms
+        1. Analysis of algorithms
+        2. Algorithms
+        3. Data structures
+        4. Combinatorial optimization
+        5. Computational geometry
+    2. Theory of computation
+    3. Information and coding theory
+    4. Programming language theory
+    5. Formal methods
 2. Computer engineering
     1. Computer architecture
     2. Computer performance
