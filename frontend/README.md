@@ -10,7 +10,7 @@ Roadmap for learning [Frontend Web Development](https://en.wikipedia.org/wiki/Fr
 - [ ] CSS
 - [ ] Preprocessors
 - [ ] Bootstrap
-- [ ] [JavaScript](/js)
+- [ ] [JavaScript](/javascript)
 - [ ] [Data Structures](/data-structures)
 - [ ] [Algorithms](/algorithms)
 - [ ] Functional programming
