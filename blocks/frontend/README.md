@@ -17,7 +17,7 @@ Roadmap for learning frontend.
 11. [Algorithms](/algorithms)
 12. Functional programming
 13. Object-oriented programming
-14. Design Patterns
+14. [Architecture](/architecture)
 15. Lodash
 16. Browser
 17. [DOM](/dom)
@@ -52,12 +52,6 @@ Roadmap for learning frontend.
 ## Functional programming
 
 ## Object-oriented programming
-
-## Design Patterns
-
-### Books
-
-- [ ] [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript) — Addy Osmani
 
 ## Lodash
 
